@@ -1,0 +1,12 @@
+# Defesa: nunca versionar nada que não seja mídia de identidade
+*
+!.gitignore
+!README.md
+!media/
+!media/*.png
+!media/*.jpg
+!media/*.jpeg
+!media/*.gif
+!media/*.webp
+!media/*.wav
+!media/*.mp3
